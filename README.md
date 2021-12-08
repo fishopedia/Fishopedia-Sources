@@ -17,6 +17,7 @@ Sources from which Fishopedia uses information (text) and/or images
 - https://en.aqua-fish.net/fish/guppy
 - https://en.aqua-fish.net/fish/siamese-fighting-fish
 - https://en.aqua-fish.net/fish/rainbowfish
+- https://en.aqua-fish.net/fish/lyretail-killifish
 
 ## Reefs.com
 ### Images
